@@ -13,4 +13,4 @@ tags:
 
 
 
-![人家的二维码](./今天就学习了hexo的操作/o_220901105158_qrcode_wechat.jpg)
+<img src="https://cdn.jsdelivr.net/gh/openwave11/markdown-pic/img/%E7%89%B9%E6%9C%97%E6%99%AE-202411181933578.jpg" alt="d4040d523f0013ad6b373f40ba879612" style="zoom:67%;" />
